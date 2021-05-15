@@ -4,5 +4,7 @@ Employee Handbooks are, by law, not confidential, so don't put anything in here 
 
 # Dependencies
 
-pandoc, make, lualatex
+- pandoc - ```sudo apt install pandoc```
+- make
+- lualatex
 

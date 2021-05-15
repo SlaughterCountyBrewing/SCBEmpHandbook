@@ -1,29 +1,29 @@
 CHAPTERS := \
-    OVERVIEW.md \
-    BASICS.md \
-    POLICIES.md \
+    Overview.md \
+    Basics.md \
+    Policies.md \
 	Asshole.md \
 	DrugPolicy.md \
 	Security.md \
 	IT.md \
 	Happy.md \
-    CODEOFCONDUCT.md \
+    CodeOfConduct.md \
 	Service.md \
 	Bev.md \
 	Kitchen.md \
 	Doodies.md \
-    COMPENSATION.md \
-    BENEFITS.md \
-    WORKINGHOURS.md \
+    Compensation.md \
+    Benefits.md \
+    WorkingHours.md \
 	Clocking.md \
 	TimeOff.md \
 	Breaks.md \
-    TERMINATION.md \
+    Termination.md \
     TODO.md \
-    FORMS.md \
+    Forms.md \
 	DrugConscent.md \
 	Security.md \
-    FORMS2.md \
+    Forms2.md \
 	DrugConscent.md \
 	Security.md \
 

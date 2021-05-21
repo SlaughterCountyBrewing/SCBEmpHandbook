@@ -33,7 +33,7 @@ Throughout the hiring process, we aim to keep candidates informed, communicate w
 
 ## Background checks
 
-We run cursory background checks on candidates.  These checks include reference checks, perusing social media, public records searches, etc.  We are looking to fact-check application information, guage a "fit" within our culture, and employment requirements.  None of the online checks are anything more than what someone with an internet connection could do.
+We run cursory background checks on candidates.  These checks include reference checks, perusing social media, public records searches, etc.  We are looking to fact-check application information, gauge a "fit" within our culture, and employment requirements.  None of the online checks are anything more than what someone with an internet connection could do.
 
 
 ## Referrals

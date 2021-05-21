@@ -7,28 +7,28 @@ CHAPTERS := \
 	Security.md \
 	IT.md \
 	Happy.md \
+	DiscountsClubs.md \
     CodeOfConduct.md \
 	Service.md \
 	Bev.md \
 	Kitchen.md \
 	Doodies.md \
     Compensation.md \
-    Benefits.md \
     WorkingHours.md \
 	Clocking.md \
 	TimeOff.md \
 	Breaks.md \
-    Termination.md \
-    TODO.md \
     Forms.md \
 	DrugConscent.md \
-	Security.md \
+	SecurityConscent.md \
+	Handbook.md \
     Forms2.md \
 	DrugConscent.md \
-	Security.md \
+	SecurityConscent.md \
+	Handbook.md \
 
 HEADER := header.yaml
 
-SCBHandbook.pdf: *.md
-	pandoc --pdf-engine lualatex ${HEADER} ${CHAPTERS} -o SCBHandbook.pdf
+SCBHandbook.pdf: *.md *.yaml
+	pandoc --pdf-engine lualatex ${HEADER} ${CHAPTERS} -o SCBHandbook.pdf --metadata date="`date -u '+%Y-%m-%d'`"
 

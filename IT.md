@@ -1,24 +1,19 @@
 ## IT Department
 
-Email - [you]@slaughtercountybrewing.com
+WIP -- topics to be covered:
 
-all@slaughtercountybrewing.com
+- Email - [you]@slaughtercountybrewing.com
+- Wifi login
+- Security Cam
+- Joinhomebase.com
+- Public Facing Social Media and Content
+    - Facebook - editing
+    - Instagram - slaughtercountybeer, scbc_rox
+    - Twitter
+    - Calendar
+    - Mailing lists - crew, pinball, 
 
-Facebook - editing
 
-Wifi login
-
-all@slaughtercountybrewing.com
-
-Calendar
-
-Mailing lists - crew, pinball, 
-
-Security Cam
-
-Instagram - slaughtercountybeer, scbc_rox
-
-Joinhomebase.com
 
 
 

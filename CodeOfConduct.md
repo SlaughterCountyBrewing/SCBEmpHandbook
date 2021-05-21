@@ -9,12 +9,12 @@ Most of the items in here may look like they only apply to FOH (front of house) 
 
 We want you to enjoy hanging out at Slaughter County Brewery as much as our customers do, but employee/staff alcohol abuse and misbehavior is a real issue in our business and we have to be cognizant of the problem for the safety, enjoyment, and well being of our staff as well as for our customers.
 
-Drinking alcohol, just like drug use, is not allowed when an employee is "on-the-clock."  Sampling and tasting is part of our job, and as a manufacturer, QA testing is allowed -- this is the **only** "on-the-clock" alcohol consumption that's allowed.  Even when "off the clock," employees and staff should never be anhibriated on-site.  Here's some basic guidelines for code-of-conduct, on-site, off-the-clock alcohol consumption:
+Drinking alcohol, just like drug use, is not allowed when an employee is "on-the-clock."  Sampling and tasting is part of our job, and as a manufacturer, QA testing is allowed -- this is the **only** "on-the-clock" alcohol consumption that's allowed.  Even when "off the clock," employees and staff should never be inebriated on-site.  Here's some basic guidelines for on-site, off-the-clock alcohol consumption:
 
 - A good rule of thumb is about a maximum of 3 full alcoholic beverages when on site.
 - Limit yourself to lower ABV drinks.
 - Limit yourself to about one drink per hour.
-- Eat and have a non-alcoholic beverage (water) between alcoholic drinks.
+- Eat and have a non-alcoholic beverage between alcoholic drinks.
 
 Laws and regulations regarding overservice and intoxication apply to employees, staff, and owners the same way they do to customers.  Slaughter County will not retaliate against you for refusing service (cutting off) anyone (including an owner or manager) that is apparently intoxicated.  Anyone that does retaliate will face disciplinary action.
 
@@ -45,3 +45,4 @@ Our customers may be in that situations - out with friends or on a date - and th
 
 One hard rule we do have:  NO HAIR PENS!  Don't keep a pen in your hair - it's unsanitary and creeps people out.
 
+FOOTWEAR:  No open toed shoes.  Broken glass, accidents moving heavy objects, traction issues - these all happen and the safety issues outweigh fashion and comfort on the job.

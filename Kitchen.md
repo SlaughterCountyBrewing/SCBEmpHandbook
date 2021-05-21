@@ -4,9 +4,9 @@ Overriding theme:  “NO SURPRISES.”
 
 Secondary theme:  “We can’t sell what we don’t have.”
 
-Prep work and kitchen inventory is the responsibility of the kitchen staff, when we have kitchen staff -- Normally, bar-staff is not expected to prep, do food inventory, shopping, or kitchen ordering.  Bar-staff is expected, at all times, to help as a line-cook/helper, when needed and when possible.  When we don’t have kitchen-staff, prep is the responsibility of bar-staff.  Remember, “no surprises.”  Don’t surprise the next person coming on with a half-stocked, half-prepped kitchen.  One way to “not surprise” someone is to, at least, put notes in the log (or the whiteboard) about what needs to be done, & text the person coming in next so that they know.
+Prep work and kitchen inventory is the responsibility of the kitchen staff, when we have kitchen staff -- Under full staffing, bar-staff would not be expected to prep, do food inventory, shopping, or kitchen ordering.  Bar-staff is expected, at all times, to help as a line-cook/helper, when needed and when possible.  When we don’t have kitchen-staff, prep is the responsibility of bar-staff.  Remember, “no surprises.”  Don’t surprise the next person coming on with a half-stocked, half-prepped kitchen.  One way to “not surprise” someone is to, at least, put notes in the log (or the whiteboard) about what needs to be done, & text the person coming in next so that they know.
 
-We have key nights where food is important -- currently that’s our trivia and event nights.  Having the full menu up and available on those days is essential.
+We have key nights where food is important.  Having the full menu up and available on those days is essential.
 
 In addition to that, and for everyone’s benefit, we are trying to build a consistent food business.  Running out of items that impact multiple menu items (like cheese, pizza crusts, chicken, bacon, etc.) is devastating; it damages customer loyalty, and it hurts our bottom line. 
 

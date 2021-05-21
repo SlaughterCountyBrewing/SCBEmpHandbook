@@ -1,7 +1,7 @@
 ---
 title: Employee Handbook 
 author: Slaughter County Brewing Company
-date: May 2021
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
 toc: true
 numbersections: false
 geometry: margin=2.5cm
@@ -9,7 +9,8 @@ urlcolor: blue
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \lfoot{Updated: 15 May 2021}
+    \fancyhf{}
+    \lfoot{Updated \today}
     \rfoot{Page \thepage}
     \usepackage{fontspec}
     \setmainfont{Tex Gyre Heros}

@@ -6,6 +6,6 @@ Employee Handbooks are, by law, not confidential, so don't put anything in here 
 # Dependencies
 
 - pandoc - ```sudo apt install pandoc```
-- make
-- lualatex
+- make - ```sudo apt install build-essential```
+- lualatex - ```sudo apt install texlive-full```
 

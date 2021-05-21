@@ -39,3 +39,9 @@ To review, here's the rules from the WSLCB website:
 
 
 ## Appearance
+
+You be you, but please don't come in dressed so inappropriately that we have to write up a formal dress code.  Think of it like this:  If you're going out with friends you haven't seen in a while, you're probably not going to totally slum it.
+Our customers may be in that situations - out with friends or on a date - and they don't want to walk into a place where the staff looks like they just rolled out of bed or haven't bathed in a week.
+
+One hard rule we do have:  NO HAIR PENS!  Don't keep a pen in your hair - it's unsanitary and creeps people out.
+

@@ -29,6 +29,6 @@ CHAPTERS := \
 
 HEADER := header.yaml
 
-document.pdf: *.md
-	pandoc --pdf-engine lualatex ${HEADER} ${CHAPTERS} -o document.pdf
+SCBHandbook.pdf: *.md
+	pandoc --pdf-engine lualatex ${HEADER} ${CHAPTERS} -o SCBHandbook.pdf
 

@@ -1,4 +1,12 @@
 ---
+documentclass: book
+classoption:
+  - twocolumn
+  - landscape
+papersize: a4
+linestretch: 1
+fontsize: 10pt
+links-as-notes: true
 title: Employee Handbook 
 author: Slaughter County Brewing Company
 date: '`r format(Sys.Date(), "%B %d, %Y")`'

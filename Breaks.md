@@ -1,7 +1,7 @@
 
 ## Scheduled Hours & Breaks:
 State Regs:
-[http://www.lni.wa.gov/WorkplaceRights/Wages/HoursBreaks/](http://www.lni.wa.gov/WorkplaceRights/Wages/HoursBreaks/)  
+[https://www.lni.wa.gov/workers-rights/workplace-policies/rest-breaks-meal-periods-and-schedules](https://www.lni.wa.gov/workers-rights/workplace-policies/rest-breaks-meal-periods-and-schedules)
 
 ### WA State Defined “Rest Breaks,” and “Meal Breaks.”
 

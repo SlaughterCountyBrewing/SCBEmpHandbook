@@ -1,7 +1,8 @@
-## Daily Doodies
+## Daily "Doodies"
 
+<div style="text-align: center;"><img src="pooping.png" style="align:center"></div>
 
-- Before any breaks:
+- Before any breaks (including smoke breaks):
 
     - Chalkboard food/beer menus updated (86'd items crossed off, stuff that's back on displayed)
 
@@ -11,7 +12,9 @@
 
     - Dishes put away
 
-    - Cigarette buckets outside emptied
+    - Ashtrays emptied
+
+    - doublecheck the shopping list
 
 - Throughout the day and as needed:
 
@@ -25,6 +28,6 @@
 
     - Dust Constantly -- The dust comes from the Brewery grains, but the customer doesn’t know that - all they see is “Dirty.”
 
-    - Cigarette buckets outside emptied
+    - Ashtrays emptied
 
 

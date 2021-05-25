@@ -1,10 +1,10 @@
-# Clubs
+## Clubs
 WIP - to be covered in training:
 
 - Mug Club
 - Growler Club
 
-# Discounts
+## Discounts
 
 This is different from what we've done in the past, but hopefully a lot simpler:
 
